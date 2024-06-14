@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 人工智能研究生
+role: 系统科学研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
