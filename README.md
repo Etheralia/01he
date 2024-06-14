@@ -1,4 +1,4 @@
-# [01He's wit](https://github.com/HugoBlox/theme-academic-cv)
+# [01He](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
