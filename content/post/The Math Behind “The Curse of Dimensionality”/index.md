@@ -1,7 +1,7 @@
 ---
 title: “维数灾难”背后的数学
 summary: 深入研究“维数灾难”的概念，理解高维度中出现的所有令人惊讶的现象背后的数学原理。
-date: 2023-10-27
+date: 2024-6-15
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -9,8 +9,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
-  - admin
-  - Ted
+  - 二进制何
 
 tags:
   - Academic
