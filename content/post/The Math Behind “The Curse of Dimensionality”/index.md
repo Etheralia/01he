@@ -1,7 +1,7 @@
 ---
 title: n球的体积
 summary: 这篇文章是我在知乎上的文章“维数灾难背后的数学”的延伸。在这里，我将使用积分微积分和Wallis积分推导出n球的体积公式。
-date: 2024-6-15
+date: 2024-06-15
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
